@@ -1,4 +1,4 @@
-# HTML Interview Concepts Project
+
 
 ## 📌 Description
 A complete **HTML-only** project demonstrating all major HTML concepts in a single interactive and responsive web page.  
@@ -24,10 +24,3 @@ Perfect for interview preparation — covers both **theory** and **practical exa
 
 ## 📷 Demo
 Open the `index.html` file in any browser to see the project in action.
-
----
-
-## 🚀 How to Use
-1. Download or clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
